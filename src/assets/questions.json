@@ -1,0 +1,436 @@
+{
+  "data": [
+    [
+      {
+        "text": "Kind, softhearted, sweet",
+        "attribute": "S"
+      },
+      {
+        "text": "Influencing, convincing",
+        "attribute": "I"
+      },
+      {
+        "text": "Unassuming, composed, self-controlled",
+        "attribute": "C"
+      },
+      {
+        "text": "Independent, resourceful, one-of-a-kind",
+        "attribute": "D"
+      }
+    ],
+    [
+      {
+        "text": "Likable, fascinating, fun",
+        "attribute": "I"
+      },
+      {
+        "text": "Reasonable, fair",
+        "attribute": "C"
+      },
+      {
+        "text": "Willful, firm, decision-maker",
+        "attribute": "D"
+      },
+      {
+        "text": "Supportive, pleasant warm",
+        "attribute": "S"
+      }
+    ],
+    [
+      {
+        "text": "Observant, careful",
+        "attribute": "C"
+      },
+      {
+        "text": "Brave, unafraid, likes a challenge",
+        "attribute": "D"
+      },
+      {
+        "text": "Faithful, steadfast",
+        "attribute": "S"
+      },
+      {
+        "text": "Appealing, refreshing, lively",
+        "attribute": "I"
+      }
+    ],
+    [
+      {
+        "text": "Objective, balanced, open-minded",
+        "attribute": "C"
+      },
+      {
+        "text": "Willing to help, thoughtful",
+        "attribute": "S"
+      },
+      {
+        "text": "Determined, unbending, stubborn",
+        "attribute": "D"
+      },
+      {
+        "text": "Lighthearted, upbeat",
+        "attribute": "I"
+      }
+    ],
+    [
+      {
+        "text": "Humorous, funny",
+        "attribute": "I"
+      },
+      {
+        "text": "Specific, exact, correct",
+        "attribute": "C"
+      },
+      {
+        "text": "Gutsy, daring, bold",
+        "attribute": "D"
+      },
+      {
+        "text": "Relaxed, content, not excitable",
+        "attribute": "S"
+      }
+    ],
+    [
+      {
+        "text": "Aggressive, driven, wants to win",
+        "attribute": "D"
+      },
+      {
+        "text": "Accommodating, considers others, caring",
+        "attribute": "S"
+      },
+      {
+        "text": "Excitable, fun-seeking",
+        "attribute": "I"
+      },
+      {
+        "text": "Conforming, cooperative",
+        "attribute": "C"
+      }
+    ],
+    [
+      {
+        "text": "Particular, choosy",
+        "attribute": "C"
+      },
+      {
+        "text": "Devoted, loyal, attends to duties",
+        "attribute": "S"
+      },
+      {
+        "text": "Tough-minded, unyielding, purposeful",
+        "attribute": "D"
+      },
+      {
+        "text": "Animated, fun-loving, joking",
+        "attribute": "I"
+      }
+    ],
+    [
+      {
+        "text": "Confident, courageous, fearless",
+        "attribute": "D"
+      },
+      {
+        "text": "Inspiring, influential, enthusiastic",
+        "attribute": "I"
+      },
+      {
+        "text": "Does not resist, submit easily",
+        "attribute": "S"
+      },
+      {
+        "text": "Avoid attention, modest",
+        "attribute": "C"
+      }
+    ],
+    [
+      {
+        "text": "Outgoing, makes friends easily",
+        "attribute": "I"
+      },
+      {
+        "text": "Patient lenient, show mercy, stable",
+        "attribute": "S"
+      },
+      {
+        "text": "Self-sufficent, goal achieving",
+        "attribute": "D"
+      },
+      {
+        "text": "Private subdued, appropriate",
+        "attribute": "C"
+      }
+    ],
+    [
+      {
+        "text": "Risk-taking, thrill-seeking, daring",
+        "attribute": "D"
+      },
+      {
+        "text": "Teachable, willing to be concinced",
+        "attribute": "C"
+      },
+      {
+        "text": "Sociable, big-hearted, personable",
+        "attribute": "I"
+      },
+      {
+        "text": "Agreeable, easygoing, not extreme",
+        "attribute": "S"
+      }
+    ],
+    [
+      {
+        "text": "Expressive, likes to talk",
+        "attribute": "I"
+      },
+      {
+        "text": "Moderate, easily swayed",
+        "attribute": "S"
+      },
+      {
+        "text": "Follows routine, decides carefully",
+        "attribute": "C"
+      },
+      {
+        "text": "Self-confident, makes decisions quickly and easily",
+        "attribute": "D"
+      }
+    ],
+    [
+      {
+        "text": "Persuasive, smooth, at ease with people",
+        "attribute": "I"
+      },
+      {
+        "text": "Adventurous, unflinching",
+        "attribute": "D"
+      },
+      {
+        "text": "Courteous, respectful, tactful",
+        "attribute": "C"
+      },
+      {
+        "text": "Contented, easily pleased",
+        "attribute": "S"
+      }
+    ],
+    [
+      {
+        "text": "Enjoys competition, persistent, entrepreneur",
+        "attribute": "D"
+      },
+      {
+        "text": "Life of the party, entertaining, draws attention",
+        "attribute": "I"
+      },
+      {
+        "text": "Vulnerable, gullible, easily influenced",
+        "attribute": "S"
+      },
+      {
+        "text": "Anxious, apprehensive, hesitant",
+        "attribute": "C"
+      }
+    ],
+    [
+      {
+        "text": "Watchful, cautious, weights risks",
+        "attribute": "C"
+      },
+      {
+        "text": "Ambitious, decisive, takes charge",
+        "attribute": "D"
+      },
+      {
+        "text": "Wholeheartedly convinced, talks others into",
+        "attribute": "I"
+      },
+      {
+        "text": "Comfortable, good-natured, welcoming",
+        "attribute": "S"
+      }
+    ],
+    [
+      {
+        "text": "Ready to help, goes along with, trusting",
+        "attribute": "S"
+      },
+      {
+        "text": "Easily excited, highstrung",
+        "attribute": "I"
+      },
+      {
+        "text": "Compliant, follows rules, not argumentative",
+        "attribute": "C"
+      },
+      {
+        "text": "Vibrant, enterprising, energetic",
+        "attribute": "D"
+      }
+    ],
+    [
+      {
+        "text": "Self-assured, positive, optimistic",
+        "attribute": "I"
+      },
+      {
+        "text": "Kindhearted, sentimental, responsive",
+        "attribute": "S"
+      },
+      {
+        "text": "Evaluating, examining, questioning",
+        "attribute": "C"
+      },
+      {
+        "text": "Assertive, forceful, alert",
+        "attribute": "D"
+      }
+    ],
+    [
+      {
+        "text": "Self-disciplined, controlled, methodical",
+        "attribute": "C"
+      },
+      {
+        "text": "Unselfish, concerned for others",
+        "attribute": "S"
+      },
+      {
+        "text": "Demonstrates feelings and emotions outwardly",
+        "attribute": "I"
+      },
+      {
+        "text": "Commited, not easily defeated nor discouraged",
+        "attribute": "D"
+      }
+    ],
+    [
+      {
+        "text": "Commendable, desires recognition",
+        "attribute": "I"
+      },
+      {
+        "text": "Pleasing, sharing, gracious",
+        "attribute": "S"
+      },
+      {
+        "text": "Selective, chooses carefully",
+        "attribute": "C"
+      },
+      {
+        "text": "Emphatic, insistent, demanding",
+        "attribute": "D"
+      }
+    ],
+    [
+      {
+        "text": "Formal, shows proper respect, restrained",
+        "attribute": "C"
+      },
+      {
+        "text": "Innovative, pioneering, tries new things",
+        "attribute": "D"
+      },
+      {
+        "text": "Happy, expects good things to happen",
+        "attribute": "I"
+      },
+      {
+        "text": "Harmonious, obligin, helpful",
+        "attribute": "S"
+      }
+    ],
+    [
+      {
+        "text": "Confronting, challenging",
+        "attribute": "D"
+      },
+      {
+        "text": "Adjustable, able to change",
+        "attribute": "C"
+      },
+      {
+        "text": "Unruffled, indifferent, casual",
+        "attribute": "S"
+      },
+      {
+        "text": "Cheerful, unworried, playful",
+        "attribute": "I"
+      }
+    ],
+    [
+      {
+        "text": "Believes in others, open, trustful",
+        "attribute": "I"
+      },
+      {
+        "text": "At peace, pleased, satisfied",
+        "attribute": "S"
+      },
+      {
+        "text": "Unquestional confidence, certain",
+        "attribute": "D"
+      },
+      {
+        "text": "Even-tempered, level-headed, unhurried",
+        "attribute": "C"
+      }
+    ],
+    [
+      {
+        "text": "Compatible, enjoys people, popular",
+        "attribute": "I"
+      },
+      {
+        "text": "Informed, refined, perceptive",
+        "attribute": "C"
+      },
+      {
+        "text": "Dynamic, powerful, spirited",
+        "attribute": "D"
+      },
+      {
+        "text": "Tolerant, compassionate, merciful",
+        "attribute": "S"
+      }
+    ],
+    [
+      {
+        "text": "Fun to be with, sociable",
+        "attribute": "I"
+      },
+      {
+        "text": "Precise, factual, accurate",
+        "attribute": "C"
+      },
+      {
+        "text": "Direct, speaks frankly",
+        "attribute": "D"
+      },
+      {
+        "text": "Quiet, soft-spoken, reserved",
+        "attribute": "S"
+      }
+    ],
+    [
+      {
+        "text": "Restless, fidgetly, easily bored",
+        "attribute": "D"
+      },
+      {
+        "text": "Peaceable, helps others, friendly",
+        "attribute": "S"
+      },
+      {
+        "text": "Well-liked, impulsive, charming",
+        "attribute": "I"
+      },
+      {
+        "text": "Systematic, tidy, attentive to details",
+        "attribute": "C"
+      }
+    ]
+  ]
+}
