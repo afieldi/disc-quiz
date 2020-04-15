@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/disc-site/'
+  publicPath: '/disc-quiz/'
 }
