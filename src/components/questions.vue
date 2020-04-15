@@ -55,10 +55,10 @@ export default {
         }
         leasts[valL] += 1
         
-        // if (valL === valM) {
-        //   alert(`In question ${i + 1} you had the same answer for most and least. Please change.`);
-        //   return;
-        // }
+        if (valL === valM) {
+          alert(`In question ${i + 1} you had the same answer for most and least. Please change.`);
+          return;
+        }
       }
       this.$parent.submitQuiz(mosts, leasts);
     }
@@ -96,7 +96,9 @@ export default {
 
 .grid-test {
   display: grid;
+  grid-column-gap: 15px;
 }
+
 @media (max-width: 1199px) and (min-width: 900px){
   .grid-test {
     grid-template-columns: auto auto;
